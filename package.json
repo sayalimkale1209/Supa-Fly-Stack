@@ -28,7 +28,6 @@
 		"@prisma/client": "^5.7.1",
 		"@remix-run/node": "*",
 		"@remix-run/react": "*",
-		"@remix-run/serve": "*",
 		"@supabase/supabase-js": "^2.39.1",
 		"autoprefixer": "^10.4.16",
 		"cookie": "^0.6.0",
@@ -47,8 +46,9 @@
 	},
 	"devDependencies": {
 		"@faker-js/faker": "^8.3.1",
-		"@remix-run/dev": "*",
+		"@remix-run/dev": "^2.16.7",
 		"@remix-run/eslint-config": "*",
+		"@remix-run/serve": "^2.16.7",
 		"@tailwindcss/forms": "^0.5.7",
 		"@tailwindcss/typography": "^0.5.10",
 		"@testing-library/cypress": "^10.0.1",
